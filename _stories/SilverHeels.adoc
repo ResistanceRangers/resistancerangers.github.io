@@ -1,11 +1,13 @@
+= Legend of SilverHeels
+:doctype: book
+:showtitle:
+
 ---
 title: "Legend of SilverHeels"
 date: 2025-03-19
 ---
 
-= The Trail of Lost Hopes and Dreams
-:doctype: book
-:showtitle:
+== The Trail of Lost Hopes and Dreams
 
 The Legend of SilverHeels
 
